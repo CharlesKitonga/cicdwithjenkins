@@ -1,2 +1,1 @@
-# cicdwithjenkins
-Learning CI &amp; CD with Jenkins
+# Learning CI &amp; CD with Jenkins
