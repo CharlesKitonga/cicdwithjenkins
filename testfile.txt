@@ -1,1 +1,1 @@
-Lets learn countinious integration modified
+Lets learn continuous integration modified
